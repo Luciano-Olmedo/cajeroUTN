@@ -2,7 +2,7 @@ from cajero import *
 from cuenta import *
 from decimal import Decimal
 
-cuenta = Cuenta(100)
+cuenta = Cuenta(5000000)
 cajero = Cajero(1234, cuenta)
 
 pin = int(input("Ingrese su pin: "))
