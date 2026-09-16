@@ -1,6 +1,0 @@
-{
-  "name": "Cajero Automático UTN",
-  "description": "Simulador de cajero automático basado en cajeroUTN con verificación de PIN, consulta de saldo y extracción de dinero.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
