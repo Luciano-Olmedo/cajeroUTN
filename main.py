@@ -2,7 +2,7 @@ from cuenta_pesos import CuentaPesos
 from cajero import Cajero
 
 
-cuenta = CuentaPesos(100000000)
+cuenta = CuentaPesos(1000000000)
 cajero = Cajero(cuenta)
 
 
